@@ -1,15 +1,17 @@
 Getting and Cleaning Data project
 =================================
 Introduction-
+============
 
 The purpose of this project is to collect, clean and generate new tidy dataset that can be used for later analysis.
 
 Data
+====
 
 Data definition and the transformations/cleanup steps of run_analysis.R is fully documented in the CodeBook.md
 
 Project Contents:
-
+=================
 Beside README.md file, the project directory also contains :
 
 run_analysis.R
@@ -22,6 +24,7 @@ CodeBook.md provide further explanation on the dataset and execution steps of th
 tidyData.txt is the tab delimited text file generated from the run_analysis.R script
 
 Setup
+=====
 
 Download this project. Open R/RStudio and set your working directory to the downloaded project directory.
 
